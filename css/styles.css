@@ -1,11 +1,16 @@
 /* CSS */
-body {
+html, body {
   height: 100%;
+  margin: 0;
 }
+
+body {
+}
+
 #flightSequenceCanvas {
-  width: 90%;
-  margin: auto auto;
-  height: 90%;
+  width: 99.1%;
+  margin: auto;
+  height: 99.1%;
   border: solid 4px #999;
   background-color: white;
   display: block;
